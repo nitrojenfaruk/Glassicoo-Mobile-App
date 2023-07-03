@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GlassicoApp</string>
+    <string name="icn_camera_view_video_start_content_description">ShotVideo</string>
+    <string name="icn_camera_view_video_stop_content_description">ShotVideo</string>
+    <string name="icn_camera_view_switch_camera_content_description">SwitchCamera</string>
+    <string name="icn_camera_view_camera_shutter_content_description">ShotCamera</string>
+    <string name="icn_camera_view_view_gallery_content_description">GalleryCamera</string>
+
+</resources>
