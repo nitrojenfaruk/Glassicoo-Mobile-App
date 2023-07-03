@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\seffa\StudioProjects\GlassicoApp\opencv\.cxx\Debug\336x3612\x86'
+ninja: no work to do.
